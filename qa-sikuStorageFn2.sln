@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qa-sikuStorageFn2", "qa-sikuStorageFn2\qa-sikuStorageFn2.csproj", "{06813950-7DF2-4029-BDEC-FCFC98A90B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06813950-7DF2-4029-BDEC-FCFC98A90B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06813950-7DF2-4029-BDEC-FCFC98A90B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06813950-7DF2-4029-BDEC-FCFC98A90B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06813950-7DF2-4029-BDEC-FCFC98A90B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1CE348C-351A-4CAA-B153-2B025202AE58}
+	EndGlobalSection
+EndGlobal
